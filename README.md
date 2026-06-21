@@ -1,3 +1,88 @@
+# ZADES
+
+ZADES is a modern web application built using Next.js and TypeScript. It provides a scalable and efficient architecture with API integration and backend support for handling user data and address management.
+
+## 🚀 Features
+
+- Modern UI with Next.js
+- TypeScript support
+- API-based architecture
+- Address management functionality
+- Secure and scalable design
+- Responsive interface
+
+## 🛠️ Tech Stack
+
+- Next.js
+- TypeScript
+- Node.js
+- Prisma
+- Tailwind CSS
+- Axios
+- Zod
+
+## 📂 Project Structure
+
+```
+ZADES
+├── Backend-main
+│   └── app
+│       └── api
+├── auth.ts
+├── next.config.ts
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/ZADES.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd ZADES
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open:
+
+```
+http://localhost:3000
+```
+
+## 📌 Future Enhancements
+
+- User authentication
+- Database optimization
+- Additional API endpoints
+- Enhanced UI and performance
+
+## 👥 Contributors
+
+- Naveen Kumar Geddada
+- Your Friend's Name
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
